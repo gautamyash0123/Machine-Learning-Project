@@ -13,13 +13,13 @@ Pima Indians Diabetes Dataset
 . Total records: 768
 
 · Independent variables includes:
-· Pregnancies: Number of times pregnant
-. Glucose: Glucose concentration
-. BloodPressure: Diastolic blood pressure
-· SkinThickness: Triceps skin fold thickness
-. Insulin: 2-Hour serum insulin
-. BMI: Body mass index
-. DiabetesPedigreeFunction: Diabetes pedigree function
-· Age
+  · Pregnancies: Number of times pregnant
+  . Glucose: Glucose concentration
+  . BloodPressure: Diastolic blood pressure
+  · SkinThickness: Triceps skin fold thickness
+  . Insulin: 2-Hour serum insulin
+  . BMI: Body mass index
+  . DiabetesPedigreeFunction: Diabetes pedigree function
+  · Age
 · Dependent Variable
-· Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
+  · Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
